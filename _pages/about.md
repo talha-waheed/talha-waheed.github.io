@@ -5,7 +5,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-redirect_to: https://talha.cs.illinois.edu
+# redirect_to: https://talha.cs.illinois.edu
 ---
 
 
