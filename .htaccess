@@ -1,1 +1,6 @@
-<!-- Redirect 301 / https://talha.cs.illinois.edu/_site/ -->
+
+
+RewriteOptions inherit
+
+RewriteEngine On
+RewriteRule ^$ /_site/ [L]
