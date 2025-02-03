@@ -12,7 +12,7 @@ redirect_from:
 <!-- ====== -->
 I'm doing a PhD in Computer Science at the University of Illinois Urbana-Champaign. I've the privilege of being advised by [Prof. Brighten Godfrey](https://pbg.cs.illinois.edu) and [Prof. Radhika Mittal](https://radhikam.web.illinois.edu). My research focuses on problems in networked systems. Currently, I'm working on optimizing load balancing and resource scheduling in the cloud.
 
-Earlier, I did my undergrad from LUMS, Pakistan, where I had the good fortune of working with [Prof. Zafar Qazi](https://web.lums.edu.pk/~zafar/) and [Prof. Ihsan Qazi](https://www.ihsanqazi.com). We quantified the degradation in quality of experience (QoE) while users stream videos on mobile devices under memory pressure. We then demonstrated how an improved video delivery over the network could mitigate this. Our work was published in CoNEXT '22 [[See paper](https://talha-waheed.github.io/files/coal-not-diamonds.pdf)].
+Earlier, I did my undergrad from LUMS, Pakistan, where I had the good fortune of working with [Prof. Zafar Qazi](https://web.lums.edu.pk/~zafar/) and [Prof. Ihsan Qazi](https://www.ihsanqazi.com). We quantified the degradation in quality of experience (QoE) while users stream videos on mobile devices under memory pressure. We then demonstrated how an improved video delivery over the network could mitigate this. Our work is published in CoNEXT '22 [[See paper](https://talha-waheed.github.io/files/coal-not-diamonds.pdf)].
 
 You can find more about me here in my [CV](https://talha-waheed.github.io/files/CV.pdf).
 
